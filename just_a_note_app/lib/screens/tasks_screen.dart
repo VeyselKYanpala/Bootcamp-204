@@ -42,7 +42,7 @@ class TasksScreen extends StatelessWidget {
                   backgroundColor: Colors.white,
                   radius: 30.0,
                   child: Icon(
-                    Icons.list,
+                    Icons.logout_outlined,
                     size: 45.0,
                     color: Colors.deepPurple,
                   ),
