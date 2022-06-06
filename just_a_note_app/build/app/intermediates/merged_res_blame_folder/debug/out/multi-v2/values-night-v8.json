@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Merve\\Desktop\\DosyaMerve\\Yaz\\GoogleAkademiProje\\RealProjectGit\\Bootcamp-204\\just_a_note_app\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "D:\\flutter_projects\\Bootcamp-204\\just_a_note_app\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Merve\\Desktop\\DosyaMerve\\Yaz\\GoogleAkademiProje\\RealProjectGit\\Bootcamp-204\\just_a_note_app\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\flutter_projects\\Bootcamp-204\\just_a_note_app\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

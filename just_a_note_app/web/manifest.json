@@ -1,6 +1,6 @@
 {
-    "name": "a_todo_app",
-    "short_name": "a_todo_app",
+    "name": "just_a_note_app",
+    "short_name": "just_a_note_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,4 +1,4 @@
-#Mon Jun 06 21:33:30 TRT 2022
-base.0=C\:\\Users\\Merve\\Desktop\\DosyaMerve\\Yaz\\GoogleAkademiProje\\RealProjectGit\\Bootcamp-204\\just_a_note_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Mon Jun 06 22:13:26 TRT 2022
+base.0=D\:\\flutter_projects\\Bootcamp-204\\just_a_note_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
